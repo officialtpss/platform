@@ -1,0 +1,9 @@
+node_modules/
+yarn-error.log
+.DS_Store
+.idea
+.storybook/storybook-static
+npm-debug.log
+.env
+.package-lock.json
+settings*.json

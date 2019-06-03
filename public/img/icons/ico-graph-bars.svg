@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="30px" height="30px" viewBox="0 0 30 30" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46.2 (44496) - http://www.bohemiancoding.com/sketch -->
+    <title>ico-graph-bars</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="dashboard" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="dashboard-i-dt" transform="translate(-542.000000, -654.000000)" stroke-width="2" stroke="#5CA0F6">
+            <g id="industries" transform="translate(128.000000, 634.000000)">
+                <g id="pie" transform="translate(30.000000, 20.000000)">
+                    <g id="switch-icons" transform="translate(332.000000, 0.000000)">
+                        <g id="Page-1" transform="translate(52.000000, 0.000000)">
+                            <polygon id="Stroke-1" points="2 8 28 8 28 2 2 2"></polygon>
+                            <polygon id="Stroke-3" points="2 18 18 18 18 12 2 12"></polygon>
+                            <polygon id="Stroke-4" points="2 28 13 28 13 22 2 22"></polygon>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

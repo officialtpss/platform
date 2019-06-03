@@ -1,0 +1,21 @@
+.coming-payment-container {
+  opacity: 0.6;
+  border-width: 0 0 0 2px;
+  border-color: #e1e5eb;
+  border-style: solid;
+}
+table.funds-table tr.border_bottom td{
+    border-bottom: 2px solid rgba(63, 119, 191, 0.6);
+}
+table.funds-table .total-value{
+    font-weight: bold;
+}
+.approximately-sign{
+    padding-right: 5px;
+}
+
+@media screen and (max-width: 767px) {
+  .coming-payment-container {
+    border-width: 2px 0 0 0;
+  }
+}

@@ -1,0 +1,226 @@
+.invoice-status {
+  margin: 0;
+}
+
+.tooltip-error {
+  background-color: #2b3f5d;
+  color: white;
+  height: 33px;
+  line-height: 31px;
+  padding: 0 10px;
+  font-size: 13px;
+  position: absolute;
+  width: 167px;
+  top: -9px;
+}
+
+.tooltip-error:after {
+  content: '';
+  position: absolute;
+  left: 18px;
+  bottom: -6px;
+  width: 0;
+  height: 0;
+  border-left: 6px solid transparent;
+  border-right: 6px solid transparent;
+  border-top: 6px solid #2c3f5d;
+  clear: both;
+}
+
+.button-wrapper {
+  margin-bottom: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.button-wrapper > button {
+  margin: 0;
+  width: 100%;
+}
+.button-wrapper > button:not(:first-child) {
+  margin-bottom: 20px;
+}
+
+.bid-card.success {
+  border-color: #77C58C;
+}
+
+.bid-card-label {
+  border: 2px solid #F5F7FA;
+  display: inline-block;
+  text-transform: uppercase;
+  color: #77C58C;
+  padding: 2px 6px;
+  font-size: 12px;
+  font-weight: bold;
+  margin-bottom: 5px;
+}
+
+.bid-card .bid-card-body {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  flex-wrap: wrap;
+  clear: both;
+}
+
+.bid-card .bid-card-body .icon {
+  min-width: 50px;
+  margin-right: 10px;
+}
+
+.bid-card .bid-card-body .name {
+  flex: 1 0;
+}
+
+.bid-card .bid-card-body .goal-bid,
+.bid-card .bid-card-body .current-bid,
+.bid-card .bid-card-body .return,
+.bid-card .bid-card-body .current-return {
+  flex: 0 0 10%;
+  padding-right: 15px;
+  text-align: right;
+  white-space: nowrap;
+}
+
+.bid-card.individual .bid-card-body .return {
+  padding-right: 0;
+}
+
+.mobile-divider {
+  display: none;
+}
+
+.bid-card .bid-card-body .actions {
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.bid-card.investor .bid-card-body .actions {
+  flex-direction: column;
+}
+
+.bid-card.investor .bid-card-body .actions button {
+  padding: 5px;
+  margin: 0;
+}
+
+.bid-card.investor .bid-card-body .actions button:nth-child(2) {
+  border-top: 2px solid #5CA0F6;
+}
+
+@media screen and (min-width: 1200px) {
+  .invoice-status {
+    margin-left: 10px;
+  }
+}
+
+@media (min-width: 768px) and (max-width: 1199px) {
+  .has-card {
+    margin-top: 20px;
+  }
+}
+
+@media screen and (max-width: 575px) {
+  .button-wrapper {
+    box-shadow: 0 1px 6px 0 rgba(0,0,0,0.05), 0 1px 6px 0 rgba(67,68,69,0.10);
+    padding: 20px;
+  }
+  .button-wrapper > button {
+    width: fit-content;
+  }
+  .button-wrapper > button:not(:last-child) {
+    margin: 0;
+  }
+}
+
+@media screen and (max-width: 991px) {
+  .bid-card-label {
+    float: right;
+  }
+
+  .bid-card .bid-card-body > div {
+    margin-bottom: 8px;
+  }
+
+  .bid-card .bid-card-body .goal-bid {
+    flex-basis: 100%;
+    text-align: left;
+    padding-right: 0;
+  }
+
+  .bid-card .bid-card-body .goal-bid,
+  .bid-card .bid-card-body .current-return,
+  .bid-card .bid-card-body .current-bid,
+  .bid-card .bid-card-body .return {
+    flex-basis: 50%;
+    text-align: left;
+  }
+
+  .bid-card.individual .bid-card-body .return {
+    text-align: right;
+  }
+
+  .bid-card:not(.individual) .bid-card-body .current-bid,
+  .bid-card:not(.individual) .bid-card-body .current-return{
+    text-align: right;
+  }
+
+  .bid-card .bid-card-body .actions {
+    width: 100%;
+    border-top: 1px solid #636466;
+    padding: 20px 0 0;
+  }
+
+  .bid-card.investor .bid-card-body .actions {
+    flex-direction: row;
+    padding-top: 10px;
+  }
+
+  .bid-card.investor .bid-card-body .actions button {
+    padding: 0px 10px;
+  }
+
+  .bid-card.investor .bid-card-body .actions button:nth-child(2) {
+    border-top: none;
+    border-left: 2px solid #5CA0F6;
+  }
+  
+  .mobile-divider{
+    display: block;
+    width: 100%;
+  }
+}
+
+@media screen and (max-width: 767px) {
+  .has-card {
+    margin-top: 20px;
+  }
+}
+
+.switch-container {
+  margin-left: 20px;
+}
+
+@media screen and (max-width: 575px) {
+  .switch-container {
+    margin-left: 10px;
+  }
+}
+
+.label-your-bid,
+.label-select-winner {
+  padding: 3px 10px;
+  background-color: #29405e;
+  border-radius: 25px;
+  color: white;
+  white-space: nowrap;
+}
+
+.label-select-winner {
+  display: inline-block;
+  margin-right: 20px;
+}

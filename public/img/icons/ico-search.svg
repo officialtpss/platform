@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="30px" height="30px" viewBox="0 0 30 30" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46.2 (44496) - http://www.bohemiancoding.com/sketch -->
+    <title>ico-search</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="market" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="market-i-ph-invoices" transform="translate(-13.000000, -135.000000)" stroke-width="2" stroke="#A5ACB5">
+            <g id="table-filters" transform="translate(7.000000, 128.000000)">
+                <g id="search">
+                    <g id="search-icon">
+                        <path d="M26,19 C26,23.418 22.418,27 18,27 C13.582,27 10,23.418 10,19 C10,14.582 13.582,11 18,11 C22.418,11 26,14.582 26,19 Z" id="Stroke-1"></path>
+                        <path d="M24,25 L32,33" id="Stroke-3"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

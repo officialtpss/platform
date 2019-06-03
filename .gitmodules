@@ -1,0 +1,4 @@
+[submodule "packages"]
+	path = packages
+    url = https://github.com/bitpopulous/platform-common.git
+	branch = master

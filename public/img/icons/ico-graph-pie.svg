@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="30px" height="30px" viewBox="0 0 30 30" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46.2 (44496) - http://www.bohemiancoding.com/sketch -->
+    <title>ico-graph-pie</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="dashboard" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round">
+        <g id="dashboard-i-dt" transform="translate(-490.000000, -654.000000)" stroke-width="2" stroke="#A5ACB5">
+            <g id="industries" transform="translate(128.000000, 634.000000)">
+                <g id="pie" transform="translate(30.000000, 20.000000)">
+                    <g id="switch-icons" transform="translate(332.000000, 0.000000)">
+                        <g id="Page-1">
+                            <path d="M13,17 L24,17 C24,23.075 19.075,28 13,28 C6.925,28 2,23.075 2,17 C2,10.925 6.925,6 13,6 L13,17 Z" id="Stroke-1"></path>
+                            <path d="M17,13 L17,2 C23.075,2 28,6.925 28,13 L17,13 Z" id="Stroke-3"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

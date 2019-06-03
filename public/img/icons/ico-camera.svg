@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="30px" height="30px" viewBox="0 0 30 30" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>ico-camera</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="kyc-i-dt-first-time_step1e" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-623.000000, -2227.000000)">
+        <g id="Group-8" transform="translate(345.000000, 1943.000000)" fill="#fff" fill-rule="nonzero">
+            <g id="Group-2" transform="translate(234.000000, 129.000000)">
+                <g id="Group-9" transform="translate(44.000000, 155.000000)">
+                    <g id="Page-1" transform="translate(2.000000, 7.000000)">
+                        <path d="M4.0002,15 L4.0002,17 L1.0002,17 C-0.10508475,17 -0.9998,16.1052847 -0.9998,15 L-0.9998,1 C-0.9998,-0.105094156 -0.1042757,-1 1.0002,-1 L4.0002,-1 L4.0002,1 L1.0002,1 L1.0002,15 L4.0002,15 Z" id="Stroke-1"></path>
+                        <path d="M22.0002,1 L22.0002,-1 L25.0002,-1 C26.1046757,-1 27.0002,-0.105094156 27.0002,1 L27.0002,15 C27.0002,16.1050942 26.1046757,17 25.0002,17 L22.0002,17 L22.0002,15 L25.0002,15 L25.0002,1 L22.0002,1 Z" id="Stroke-3"></path>
+                        <path d="M19.0002,8 C19.0002,4.68628475 16.3139153,2 13.0002,2 C9.68648475,2 7.0002,4.68628475 7.0002,8 C7.0002,11.3137153 9.68648475,14 13.0002,14 C16.3139153,14 19.0002,11.3137153 19.0002,8 Z M21.0002,8 C21.0002,12.4182847 17.4184847,16 13.0002,16 C8.58191525,16 5.0002,12.4182847 5.0002,8 C5.0002,3.58171525 8.58191525,0 13.0002,0 C17.4184847,0 21.0002,3.58171525 21.0002,8 Z" id="Stroke-5"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

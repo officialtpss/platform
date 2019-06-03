@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="30px" height="30px" viewBox="0 0 30 30" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46.2 (44496) - http://www.bohemiancoding.com/sketch -->
+    <title>ico-edit</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="account-settings" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="account-settings-i-dt-general" transform="translate(-1174.000000, -239.000000)" stroke-width="2" stroke="#5CA0F6">
+            <g id="general-settings" transform="translate(470.000000, 239.000000)">
+                <g id="Group" transform="translate(704.000000, 0.000000)">
+                    <g id="Page-1" transform="translate(6.000000, 4.000000)">
+                        <polyline id="Stroke-1" points="5 21 0 21 0 0 15 0 15 4"></polyline>
+                        <path d="M12.2427,21 L8.1117,21 C8.0497,21 7.9997,20.95 7.9997,20.889 L7.9997,16.758 L17.1927,7.565 L21.4347,11.808 L12.2427,21 Z" id="Stroke-3"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
